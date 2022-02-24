@@ -11,3 +11,7 @@ Author : Ramesh Aravindh
 4. Attachements (Image,Audio,Video) code
 
 5.Hiding the Last Seen
+
+6.Adding the Audio Call Feature
+
+7.Adding the Video Call Feature
